@@ -10,7 +10,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunzo300&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-![snake gif](https://github.com/hunzo300/hunzo300/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/hunzo300/hunzo300/output/github-contribution-grid-snake.gif)
+
 
 
 ##### communication
