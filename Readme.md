@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7e62c1&height=300&section=header&text=Minkyu Github&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7e62c1&height=300&section=header&text=Minkyu%20Github&fontSize=40" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunzo300&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
