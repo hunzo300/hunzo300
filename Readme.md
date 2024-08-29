@@ -10,7 +10,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hunzo300&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-![snake%20gif](https://github.com/hunzo300/hunzo300/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/hunzo300/hunzo300/blob/output/github-contribution-grid-snake.gif)
+
 
 ##### communication
 ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)![js](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![js](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
