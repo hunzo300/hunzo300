@@ -13,7 +13,7 @@
 ### SAM
 #### medical image mask genaration
 ![sam_](seg_demo.gif)
-# ----------------------------------------------------------------------------
+#
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
